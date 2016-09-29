@@ -17,6 +17,7 @@ import com.example.demo.R;
 import com.example.demo.adapter.ClassifyMainAdapter;
 import com.example.demo.adapter.ClassifyMoreAdapter;
 
+
 public class ListListActivity extends Activity {
 
 	private ListView mainlist;
